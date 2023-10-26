@@ -1,2 +1,3 @@
 # Minesweeper-AI
-Model checking algorithm
+Using a Model checking algorithm
+AI can be found in MyAI.py
